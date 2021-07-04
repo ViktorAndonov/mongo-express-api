@@ -1,0 +1,6 @@
+APP_NAME = "Express.js API"
+APP_URL = "http://127.0.0.1:6969"
+DB_CONNECTION = "enter_mongo_db_credentials_here"
+TOKEN_SECRET = "example_token_secret"
+EMAIL = "enter_app_email"
+EMAIL_PASS = "password_for_email"
